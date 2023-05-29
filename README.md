@@ -1,10 +1,3 @@
-LearnX: Empowering Your Path to Success in the IT Industry
-
-LearnX is a cutting-edge online learning platform! Where you can get comprehensive range of affordable courses meticulously designed to help you seize exciting job opportunities in today's dynamic IT industry. With extensive research and careful consideration of industry trends, we have created an all-encompassing learning experience that addresses the requirements of the modern IT landscape.
-
-#LAUNCH : https://doorstepgrocerydotcom.firebaseapp.com/
-#TECH STACK: Javascript, CSS, HTML, React, React Router, Google Firebase, React Hooks etc.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
