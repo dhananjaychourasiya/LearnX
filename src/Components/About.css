@@ -1,0 +1,126 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+    background: white;
+    font-family: Arial, sans-serif;
+    /* margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+  }
+  
+  .container-about {
+    max-width: 80%;
+    height: 20%;
+    margin: auto;
+    /* margin: 50px auto; */
+    padding: 30px;
+    background: yellow;
+    font-size: small;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin: 50px auto;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .about-form-group {
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    display: block;
+  }
+  
+  .btn{
+    background: 1c95ff;
+  }
+  
+  
+  input[type="email"],
+  input[type="password"] {
+    /* width: 500%; */
+    padding: 50px;
+    border-radius: 5px;
+    border: none;
+    /* background: #f1f1f1; */
+    font-size: 16px;
+
+  }
+  
+  button[type="submit"] {
+    /* display: block; */
+    /* width: 30%; */
+    /* margin: 5%; */
+    /* padding: 10px; */
+    border-radius: 50px;
+    border: none;
+    /* background: #1c95ff; */
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    max-width:120px;
+
+  }
+  
+.about-form-register{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    display: block;
+    font-size: small;
+  }
+  
+.course-title {
+  font-size: 32px; /* Adjust the font size as per your requirement */
+  font-weight: bold; /* Optionally, make the title bold */
+  color: #1e88e5;
+  font-weight: 100px;
+}
+
+.course-description {
+  font-weight: 100px;
+  font-size: 16px; /* Adjust the font size as per your requirement */
+  /* Add any other styles you want for the description */
+}
+
+.course-description h2{
+    text-align: center;
+}
+
+.form-connect{
+  margin-bottom: 20px;
+  text-align: center;
+  width: 100%;
+  display: block;
+  font-size: small;
+  
+}
+
+.form-connect-github{
+    border: none;
+    background-color: black;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 10px;
+    max-width:120px;
+    
+}
+.form-connect-linkedin{
+  border: none;
+  background: #1c95ff;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  max-width:120px;
+
+}
